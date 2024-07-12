@@ -1,0 +1,13 @@
+/* Global styles */
+body {
+  padding-top: 70px; /* Adjust according to navbar height */
+}
+
+.section {
+  padding: 80px 0; /* Vertical padding for sections */
+}
+
+/* Example: Custom styling for cards */
+.card {
+  margin-bottom: 20px;
+}
